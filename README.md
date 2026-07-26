@@ -22,11 +22,6 @@ Delek US is an alias for Delek US Holdings, Inc. (NYSE: DK), a diversified downs
 
 ## APIs
 
-### Delek US Website
-
-Corporate website redirect for Delek US, the doing-business-as brand of Delek US Holdings, Inc.
-
-- **Human URL:** https://www.delekus.com
 
 ## Canonical Profile
 
